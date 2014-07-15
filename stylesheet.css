@@ -1,0 +1,136 @@
+* {margin: 0; padding: 0;}  
+
+body {
+font-family: Apercu, Montserrat, Helvetica, Arial, Sans-serif;
+font-weight: 400;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+width: 100%;
+font-size: 18pt;
+}
+
+h1 {
+  font-size: 64pt;
+  font-weight: 700;
+}
+h2 {
+  font-size: 48pt;
+}
+
+p {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+table, th, tr, td {
+  border-collapse:collapse;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a:link, a:visited, a:active {
+  color: #fff;
+}
+
+.intro {  
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  vertical-align: middle;
+  padding: 100pt 0pt 100pt 0pt;
+  font-size: 64pt;
+}
+
+.what {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #fff;
+  background-color: #FFD14C;
+}
+
+.who {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #fff;
+  background-color: #39E877;
+}
+
+.when {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #fff;
+  background-color: #4C95FF;
+}
+
+
+.where {
+width: 100%;
+height: auto;
+padding: 50pt 0;
+text-align: center;
+color: #fff;
+background-color: #C639E8;
+}
+
+
+.invite {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #fff;
+  background-color: #FF713F;
+}
+
+.impressum {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+}
+
+.credits {
+  width: 100%;
+  height: auto;
+  padding: 50pt 0;
+  text-align: center;
+  color: #888;
+  background-color: #000;
+}
+
+.btn-default {
+  font-family: Apercu, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18pt;
+  font-weight: 400;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  background-color: transparent;
+  padding: 5px 20px 5px 20px;
+  text-align: center;
+  background-color: #FF713F;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+  border: 2px solid #fff;
+  outline: 0;
+  color: #FF713F;
+  background-color: #fff;
+}
+
