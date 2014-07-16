@@ -1,4 +1,4 @@
-
+<body>
 		<div class="intro">
 				<h1>Content Hack Day</h1>
 		</div>
@@ -45,3 +45,4 @@
 			<h2>Credits</h2>
 			<p>I made this Inspired by <a href="http://andrevv.com">Andrew McCarthy's</a> website.</p>
 	
+</body>
