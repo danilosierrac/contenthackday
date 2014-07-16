@@ -1,4 +1,4 @@
-<body>
+
 		<div class="intro">
 				<h1>Content Hack Day</h1>
 		</div>
@@ -42,6 +42,6 @@
 			<p>Write me to <a href="mailto:danilo@contentful.com">my Email</a> or <a href="https://twitter.com/bootsbosley">tweet me</a> to chat.</p>
 		</div>
 		<div class ="credits">
-<h2>Credits</h2>
+			<h2>Credits</h2>
 			<p>I made this Inspired by <a href="http://andrevv.com">Andrew McCarthy's</a> website.</p>
 	
