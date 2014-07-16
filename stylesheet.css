@@ -32,7 +32,8 @@ table, th, tr, td {
 
 a:link, a:visited, a:active {
   color: #fff;
-  text-decoration: underline;
+  text-decoration: bold;
+  font-weight: 600;
 }
 
 .intro {  
