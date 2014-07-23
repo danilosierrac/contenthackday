@@ -1,6 +1,6 @@
 * {margin: 0; padding: 10;}  
 
-@media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+@media all and (max-width: 640px) {
   h1 {
   font-size: 48pt;
   font-weight: 700;
