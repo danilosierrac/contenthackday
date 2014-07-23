@@ -1,12 +1,5 @@
 * {margin: 0; padding: 10;}  
 
-@media only screen and (max-width: 640px) {
-
-   h1 { font-size: 20pt; }
-
-}
-
-
 body {
 font-family: Apercu, Montserrat, Helvetica, Arial, Sans-serif;
 font-weight: 400;
@@ -166,3 +159,8 @@ background-color: #C639E8;
   background-color: #fff;
 }
 
+@media only screen and (max-width: 640px) {
+
+   h1 { font-size: 20pt; }
+
+}
