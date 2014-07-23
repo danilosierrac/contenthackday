@@ -132,7 +132,7 @@ background-color: #C639E8;
 .btn-default:focus {
   border: 2px solid #fff;
   outline: 0;
-  color: #FF713F;
+  color: transparent;
   background-color: #fff;
 }
 
@@ -155,7 +155,7 @@ background-color: #C639E8;
 .btn-intro:focus {
   border: 2px solid #fff;
   outline: 0;
-  color: #000;
+  color: transparent;
   background-color: #fff;
 }
 
