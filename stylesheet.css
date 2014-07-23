@@ -45,6 +45,7 @@ a:link, a:visited, a:active {
   vertical-align: middle;
   padding: 100pt 0pt 100pt 0pt;
   font-size: 64pt;
+  background: #00ff00 url('http://media.giphy.com/media/GFXNdR1tuMopi/giphy.gif') no-repeat fixed center;
 }
 
 .what {
