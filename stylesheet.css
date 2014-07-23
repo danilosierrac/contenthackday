@@ -162,5 +162,5 @@ background-color: #C639E8;
 @media only screen and (max-width: 640px) {
 
    h1 { font-size: 48pt; }
-
+   h2 { font-size: 36pt; }
 }
