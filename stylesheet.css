@@ -135,5 +135,30 @@ background-color: #C639E8;
   outline: 0;
   color: #FF713F;
   background-color: #fff;
+  
+}
+
+.btn-intro {
+  font-family: Apercu, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18pt;
+  font-weight: 400;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  background-color: transparent;
+  padding: 5px 20px 5px 20px;
+  text-align: center;
+  background-color: #FF713F;
+}
+
+.btn-intro:hover,
+.btn-intro:focus {
+  border: 2px solid #fff;
+  outline: 0;
+  color: #000;
+  background-color: #fff;
 }
 
