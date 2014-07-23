@@ -7,7 +7,7 @@ text-align: center;
 margin-right: auto;
 margin-left: auto;
 width: 100%;
-font-size: 18pt;
+font-size: 16pt;
 }
 
 h1 {
@@ -22,6 +22,7 @@ p {
   width: 80%;
   margin-right: auto;
   margin-left: auto;
+  font-size: 16pt;
 }
 
 table, th, tr, td {
