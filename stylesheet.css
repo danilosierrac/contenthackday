@@ -11,13 +11,16 @@ font-size: 16pt;
 }
 
 h1 {
+  font-weight: 800;
   font-size: 64pt;
 }
 h2 {
+  font-weight: 800;
   font-size: 48pt;
 }
 
 h3 {
+  font-weight: 800;
   font-size: 20pt;
 }
 
