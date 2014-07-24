@@ -145,6 +145,8 @@ background-color: #C639E8;
 }
 
 .btn-intro {
+  margin-top: 10px;
+  margin-bottom: 10px;
   font-family: apercuregular, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18pt;
   font-weight: 400;
@@ -191,6 +193,7 @@ background-color: #C639E8;
 }
 
 .btn-cta {
+  margin-top: 10px;
   font-family: apercuregular, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18pt;
   font-weight: 400;
