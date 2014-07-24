@@ -190,6 +190,30 @@ background-color: #C639E8;
   background-color: #fff;
 }
 
+.btn-cta {
+  font-family: apercuregular, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18pt;
+  font-weight: 400;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  background-color: transparent;
+  padding: 5px 20px 5px 20px;
+  text-align: center;
+}
+
+.btn-cta:hover,
+.btn-cta:focus {
+  border: 2px solid #fff;
+  outline: 0;
+  color: #8C8C8C;
+  background-color: #fff;
+}
+
+
 @media only screen and (max-width: 640px) {
 
    h1 { font-size: 48pt; }
