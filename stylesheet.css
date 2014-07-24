@@ -190,3 +190,7 @@ background-color: #C639E8;
    h2 { font-size: 36pt; }
    body { font-size: 14pt; }   
 }
+
+/*fonts*/
+@font-face { font-family: Apercu; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_regular-webfont.eot'); } 
+@font-face { font-family: Apercu; font-weight: bold; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_bold-webfont.eot'); }
