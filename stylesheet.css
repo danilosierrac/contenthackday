@@ -1,4 +1,7 @@
 * {margin: 0; padding: 10;}  
+/*fonts*/
+@font-face { font-family: Apercu; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_regular-webfont.eot'); } 
+@font-face { font-family: Apercu; font-weight: bold; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_bold-webfont.eot'); }
 
 body {
 font-family: Apercu, Montserrat, Helvetica, Arial, Sans-serif;
@@ -191,6 +194,4 @@ background-color: #C639E8;
    body { font-size: 14pt; }   
 }
 
-/*fonts*/
-@font-face { font-family: Apercu; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_regular-webfont.eot'); } 
-@font-face { font-family: Apercu; font-weight: bold; src: url('https://cdn.rawgit.com/ignaciogiri/camilos/master/fonts/apercu/apercu_bold-webfont.eot'); }
+
