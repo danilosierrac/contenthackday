@@ -23,6 +23,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   font-size: 16pt;
+  max-width: 800px;
 }
 
 table, th, tr, td {
