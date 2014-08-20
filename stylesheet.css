@@ -8,6 +8,7 @@ margin-right: auto;
 margin-left: auto;
 width: 100%;
 font-size: 16pt;
+
 }
 
 h1 {
@@ -30,6 +31,7 @@ p {
   margin-left: auto;
   font-size: 16pt;
   max-width: 800px;
+  
 }
 
 table, th, tr, td {
@@ -44,19 +46,27 @@ a:link, a:visited, a:active {
   font-weight: 700;
 }
 
-.intro {
+.row {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 14pt;
+  display: block; 
+}
+
+#intro {
   width: 100%;
   height: auto;
   text-align: center;
   color: #fff;
   background-color: #000;
   vertical-align: middle;
-  padding: 60pt 0pt 60pt 0pt;
+  padding: 20pt 0pt 20pt 0pt;
   font-size: 64pt;
   background: #000
 }
 
-.what {
+#what {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -65,7 +75,7 @@ a:link, a:visited, a:active {
   background-color: #FB9E2D;
 }
 
-.who {
+#who {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -74,7 +84,7 @@ a:link, a:visited, a:active {
   background-color: #39E877;
 }
 
-.when {
+#when {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -84,7 +94,7 @@ a:link, a:visited, a:active {
 }
 
 
-.where {
+#where {
 width: 100%;
 height: auto;
 padding: 50pt 0;
@@ -94,7 +104,7 @@ background-color: #C639E8;
 }
 
 
-.invite {
+#invite {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -103,7 +113,7 @@ background-color: #C639E8;
   background-color: #FF713F;
 }
 
-.impressum {
+#impressum {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -112,7 +122,7 @@ background-color: #C639E8;
   background-color: #8C8C8C;
 }
 
-.credits {
+#credits {
   width: 100%;
   height: auto;
   padding: 50pt 0;
@@ -145,8 +155,8 @@ background-color: #C639E8;
 }
 
 .btn-intro {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  /*margin-top: 10px;
+  margin-bottom: 10px;*/
   font-family: apercuregular, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18pt;
   font-weight: 400;
@@ -157,7 +167,7 @@ background-color: #C639E8;
   border-radius: 5px;
   color: #fff;
   background-color: transparent;
-  padding: 5px 10px 5px 20px;
+  padding: 5px 20px 5px 20px;
   text-align: center;
 }
 

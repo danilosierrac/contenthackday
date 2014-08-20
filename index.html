@@ -6,6 +6,8 @@
         <meta name="viewport" content="width=device-width" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <!-- STYLING -->
+		<!-- Normalizing -->
+		<link rel="stylesheet" type="text/css" href="normalize.css">
 		<!-- Latest compiled and minified CSS -->
 			<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 		<!-- Latest compiled and minified JavaScript -->
@@ -15,19 +17,24 @@
 		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 		<!--Self hosted Fonts-->
 		<link href="https://cdn.rawgit.com/danilosierrac/contenthackday/gh-pages/webfontkit-20140724-081236/stylesheet.css" rel="stylesheet" type='text/css'>
-		<!--FONT AWESOME-->
+		<!--Font awesome-->
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<title>Content Hack Day Berlin</title>
 		<!-- Google Fonts -->
 		<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
-		<div class="intro">
+		<div id="intro">
 				<h1>Content Hack Day</h1>
-				<p>Sponsors and partners welcome!</p>
-				<p><a href="http://www.eventbrite.com/e/content-hack-day-tickets-12263186521"><button type="button" class="btn-intro">Register here</button></a></p>
+				<p>Sponsors and partners welcome! <a href="https://dl.dropboxusercontent.com/u/43410531/contenthackday/CHD_Supportkit.pdf">Check Status/ Transparency</a></p>
+				<a href="http://www.eventbrite.com/e/content-hack-day-tickets-12263186521"><button type="button" class="btn-intro">Register here</button></a>
+				<!-- <div class="row">
+					<div class="col-md-1">1</div>
+				 	<div class="col-md-1">2</div>
+				 	<div class="col-md-1">3</div>
+				</div> -->
 		</div>
-		<div class="what">
+		<div id="what">
 			<h2>What</h2>
 			<h3>32 hours of coding, remixing, and information deployment</h3>
 			<br>
@@ -36,7 +43,7 @@
 			<br>
 			<p>The aim is that developers, designers, artists and other media-savvy people prototype, glitch and publish different kinds of content across whatever platform they can think of.</p>
 			</div>
-		<div class="who">
+		<div id="who">
 			<h2>Who Should Come</h2>
 			<table class="who-body">
 				<tr><td><strong>You!<strong></td></tr>
@@ -45,29 +52,26 @@
 				<tr><td>Publishers</td></tr>
 				<tr><td>Hardware providers</td></tr>
 				<tr><td>media consumers</td></tr>
-				<tr><td><strong>Everyone is welcome!</strong></td></tr>
+				<tr><td>Everyone is welcome!</td></tr>
 			</table>
-			<br>
-			<h2>Possible by</h2>
-			<a href="https://www.contentful.com/">Contentful</a>
 		</div>
-		<div class="when">
+		<div id="when">
 			<h2>When</h2>
 			<p> Saturday 15.11.2014 9:00am - Sunday 16.11.2014 5:00pm</p>
 		</div>
-		<div class ="where">
+		<div id="where">
 			<h2>Where</h2>
 			<p>Got a venue?</p>
 			<p><a href="mailto:danilo@contentful.com"><button type="button" class="btn-where">Host it</button></a></p>
 		</div>
-		<div class="invite">
+		<div id="invite">
 			<h2>Make it happen!</h2>
 			<p>Do you have a cool device to hack, an odd place to put content, or want to try making and delivering content differently? Then join us!</p>
 			<br>
 			<p><a href="http://www.eventbrite.com/e/content-hack-day-tickets-12263186521"><button type="button" class="btn-default">Support event</button></a></p>
 			<br>
 		</div>
-		<div class="impressum">
+		<div id="impressum">
 			<h2>Stay tuned</h2>
 			<p>#CHDBerlin</p>
 			<br>
@@ -75,7 +79,7 @@
 			<a href="https://twitter.com/bootsbosley"><button type="button" class="btn-cta">Tweet me</button></a></p>
 
 		</div>
-		<div class ="credits">
+		<div id="credits">
 			<p>Made by <a href="http://danilosierra.com/">Danilo Sierra</a> Working for <a href="http://contentful.com">Contentful GmbH</a></p>
 			<p>Inspired by <a href="http://andrevv.com">Andrew McCarthy's</a> website</p>
 			<p>2014</p>
