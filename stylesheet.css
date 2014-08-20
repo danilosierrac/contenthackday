@@ -1,4 +1,4 @@
-* {margin: 0; padding: 10;}  
+* {margin: 0; padding: 10;}
 
 body {
 font-family: apercuregular, Montserrat, Helvetica, Arial, Sans-serif;
@@ -44,8 +44,8 @@ a:link, a:visited, a:active {
   font-weight: 700;
 }
 
-.intro {  
-  width: 100%; 
+.intro {
+  width: 100%;
   height: auto;
   text-align: center;
   color: #fff;
@@ -62,7 +62,7 @@ a:link, a:visited, a:active {
   padding: 50pt 0;
   text-align: center;
   color: #fff;
-  background-color: #FFD14C;
+  background-color: #FB9E2D;
 }
 
 .who {
@@ -157,7 +157,7 @@ background-color: #C639E8;
   border-radius: 5px;
   color: #fff;
   background-color: transparent;
-  padding: 5px 20px 5px 20px;
+  padding: 5px 10px 5px 20px;
   text-align: center;
 }
 
@@ -222,7 +222,7 @@ background-color: #C639E8;
 
    h1 { font-size: 48pt; }
    h2 { font-size: 36pt; }
-   body { font-size: 14pt; }   
+   body { font-size: 14pt; }
 }
 
 
