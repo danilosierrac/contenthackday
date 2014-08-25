@@ -66,6 +66,15 @@ a:link, a:visited, a:active {
   background: #000
 }
 
+#sponsors {
+  width: 100%;
+  height: auto;
+  padding: 20pt 0;
+  text-align: center;
+  color: #000;
+  background-color: #Fff;
+}
+
 #what {
   width: 100%;
   height: auto;
@@ -157,6 +166,7 @@ background-color: #C639E8;
 .btn-intro {
   /*margin-top: 10px;
   margin-bottom: 10px;*/
+  margin-top: 30px;
   font-family: apercuregular, Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18pt;
   font-weight: 400;
@@ -228,6 +238,30 @@ background-color: #C639E8;
 }
 
 
+#logos {
+   /* Prevent vertical gaps */
+   line-height: 1;
+   display: block;
+   margin-top: 40px;
+   margin-left: auto;
+   margin-right: auto;
+  }
+
+   -webkit-column-count: 5;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    5;
+   -moz-column-gap:      0px;
+   column-count:         5;
+   column-gap:           0px;
+   
+}
+#logos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+
+
 @media only screen and (max-width: 640px) {
 
    h1 { font-size: 48pt; }
@@ -235,4 +269,31 @@ background-color: #C639E8;
    body { font-size: 14pt; }
 }
 
-
+/*@media (max-width: 1200px) {
+  #logos {
+  -moz-column-count:    4;
+  -webkit-column-count: 4;
+  column-count:         4;
+  }
+}
+@media (max-width: 1000px) {
+  #logos {
+  -moz-column-count:    3;
+  -webkit-column-count: 3;
+  column-count:         3;
+  }
+}*/
+/*@media (max-width: 800px) {
+  #logos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}*/
+/*@media (max-width: 400px) {
+  #logos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}*/
