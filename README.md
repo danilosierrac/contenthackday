@@ -23,8 +23,8 @@ The aim is that developers, designers, artists and other media-savvy people prot
 
 ## Where?
 
-Betahaus offered us 50% discount for the event, we still need support to secure the deal!
-To learn how to make it happen, read the support kit, or [write an email!](mailto:danilo@contentful.com).
+Betahaus offered 50% discount for the event, we still need support to secure the deal!
+To learn how to make it happen, read the support kit, or [write an email](mailto:danilo@contentful.com)!
 
 ## Who Should Come
 
@@ -38,7 +38,7 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 
 ## Make it happen!
 
-We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and hardware partner!
+We are still in the need to guarantee some things to make the event happen, so join as sponsor, hardware partner, or/and hardware partner!
 
 |Implications   |Partner   |Sponsor   |Hardware provider |
 |:-:|:-:|:-:|:-:|:-:|
@@ -104,6 +104,6 @@ Your code stays yours.
 
 My name is Danilo Sierra and I am organising this event, you can [Email me](mailto:danilos@contentful.com), [Tweet me](https://twitter.com/bootsbosley) and [Yo! me](justyo.co/BOOTSBOSLEY).
 
-[Fork this project on GitHub][github], add yourself, and send us a pull request.
+[Fork this project on GitHub][github], add yourself, and send a pull request.
 [self]: http://contenthackday.com/ "Content Hack Day"
 [github]: https://github.com/danilosierrac/contenthackday/ "Fork on GitHub"
