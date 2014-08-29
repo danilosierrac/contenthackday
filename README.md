@@ -86,14 +86,14 @@ Your code stays yours.
 
 ## Credits + Extra info
 
-*The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com)
-*I want to follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org) for this event
-*and the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com/)
+* The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com)
+* I want to follow the [Hackathon Code of Conduct](http://hackcodeofconduct.org) for this event
+* I am using the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com)
 
 ### Moral Support
 * [Boris](https://twitter.com/neonacho)
 * [Herr Anti](https://twitter.com/pxlpnk)
-* [The Berlin Geekettes] (http://www.geekettes.io)
+* [The Berlin Geekettes](http://www.geekettes.io)
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
 
