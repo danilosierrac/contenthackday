@@ -66,13 +66,17 @@ Because it is an opportunity to work with new technology in a completely free, c
 
 ###Why should my company/organisation should participate?
 
--You want people to use your API in a new funky way -You want to see what kind of cool integration potential your product has 
--You are curious to see why and where people can put content -You are generous 
+*You want people to use your API in a new funky way 
+*You want to see what kind of cool integration potential your product has 
+*You are curious to see why and where people can put content -You are generous 
 
 ###What kind of projects are you willing/expecting to see happen?
 
--I would love to see somebody Deploying a blog on a watch -I would love an app that deletes metadata from photos for privacy to exist -I would love an app that tells me where iBeacons are located and opt-in/out of them accessing my device
--Using smartphones and becoming devices to explore fiction-based locations in real time to unlock extra content. -Getting your productivity suites to assist you from your wearables 
+*I would love to see somebody Deploying a blog on a watch 
+*I would love an app that deletes metadata from photos for privacy to exist 
+*I would love an app that tells me where iBeacons are located and opt-in/out of them accessing my device
+*Using smartphones and becoming devices to explore fiction-based locations in real time to unlock extra content.
+*Getting your productivity suites to assist you from your wearables 
 
 ###Who owns the IP of the hacks?
 Every person who actively works on a project owns that project themselves. 
