@@ -38,7 +38,7 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 
 ## Make it happen!
 
-We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and API partner!
+We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and hardware partner!
 
 |Implications   |Partner   |Sponsor   |Hardware provider   |
 |:-:|---|---|---|---|
