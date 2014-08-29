@@ -10,7 +10,7 @@ Sponsors and partners welcome!
 ## Powered By:
 
 * [Contentful](https://www.contentful.com/)
-* [Betahaus]()Betahaus
+* [Betahaus](http://www.betahaus.com/berlin/)
 
 ## Hardware Partners
 
