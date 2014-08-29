@@ -52,7 +52,9 @@ Partners get right to access to an opt-in contact sheet from attendees *given ex
 Do you have a cool device to hack, an odd place to put content, or want to try making and delivering content differently? 
 Then join us! 
 
-|[Register](https://www.eventbrite.com/e/content-hack-day-tickets-12263186521) |
+| [Register](https://www.eventbrite.com/e/content-hack-day-tickets-12263186521) |
+|:-:|
+
 
 ## Deeper questions
 
