@@ -81,6 +81,7 @@ Because it is an opportunity to work with new technology in a completely free, c
 ### *Who owns the IP of the hacks?*
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
+
 *Bringing your own hardware is welcomed too!*
 
 ## Credits
