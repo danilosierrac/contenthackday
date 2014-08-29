@@ -12,7 +12,7 @@ Sponsors and partners welcome!
 * [Contentful](https://www.contentful.com/)
 * [Betahaus](http://www.betahaus.com/berlin/)
 
-## Hardware Partners
+### Hardware Partners
 
 * [Kontakt.io](http://kontakt.io/)
 * [Estimote](http://estimote.com/)
