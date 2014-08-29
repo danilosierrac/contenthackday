@@ -1,8 +1,3 @@
----
-title: Content Hack Day Berlin 2014
-layout: default
----
-
 # [Content Hack Day 2014][self]
 
 Sponsors and partners welcome!
@@ -43,7 +38,15 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 
 ## Make it happen!
 
-We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and API partner! [Download Support Kit]
+We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and API partner!
+
+---
+Partner: EUR 1000 | Your logo goes in the first section | You get a shoutout 
+Sponsor: EUR 500 | Your logo goes in the second section
+Hardware partner: Send us things to tinker with! 
+---
+All supporters get to present their API and the right to be there.
+Partners get right to access to an opt-in contact sheet from attendees _given explicit consent_.
 
 ## Come play!
 
@@ -66,9 +69,9 @@ Because it is an opportunity to work with new technology in a completely free, c
 
 ### *Why should my company/organisation should participate?*
 
-*You want people to use your API in a new funky way 
-*You want to see what kind of cool integration potential your product has 
-*You are curious to see why and where people can put content -You are generous 
+* You want people to use your API in a new funky way 
+* You want to see what kind of cool integration potential your product has 
+* You are curious to see why and where people can put content -You are generous 
 
 ### *What kind of projects are would you like to see in the event?*
 
