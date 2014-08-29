@@ -96,9 +96,11 @@ Your code stays yours.
 * I am using the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com)
 
 ### Moral Support
+
+* [The Berlin Geekettes](http://www.geekettes.io)
 * [Boris](https://twitter.com/neonacho)
 * [Herr Anti](https://twitter.com/pxlpnk)
-* [The Berlin Geekettes](http://www.geekettes.io)
+
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
 
