@@ -33,13 +33,13 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 
 ## Who Should Come
 
-*You!
-*Developers
-*Bloggers
-*Publishers
-*Hardware providers
-*media consumers
-*Everyone is welcome!
+* You!
+* Developers
+* Bloggers
+* Publishers
+* Hardware providers
+* media consumers
+* Everyone is welcome!
 
 ## Make it happen!
 
@@ -81,6 +81,7 @@ Anything is welcome, yet when thinking about the event this is what I picture ha
 * Getting your productivity suites to assist you from your wearables 
 
 ### *Who owns the IP of the hacks?*
+
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
 
