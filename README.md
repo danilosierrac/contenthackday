@@ -54,7 +54,7 @@ My name is Danilo Sierra and I am organising this event, you can [Email me](mail
 Why are you organising this?
 We consider important to establish a strong relationship with people that work in our field: spreading human knowledge. 
 
-##Why should I attend?
+###Why should I attend?
 Because it is an opportunity to work with new technology in a completely free, cozy environment.
 
 ###Why should my company/organisation should participate?
