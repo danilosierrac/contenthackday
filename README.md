@@ -70,7 +70,9 @@ Because it is an opportunity to work with new technology in a completely free, c
 *You want to see what kind of cool integration potential your product has 
 *You are curious to see why and where people can put content -You are generous 
 
-### *What kind of projects are you willing/expecting to see happen?*
+### *What kind of projects are would you like to see in the event?*
+
+Anything is welcome, yet when thinking about the event this is what I picture happening:
 
 * Deploying a blog on a watch
 * An app that deletes metadata from photos for privacy to exist
