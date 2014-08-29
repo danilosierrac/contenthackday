@@ -84,10 +84,10 @@ Your code stays yours.
 
 *Bringing your own hardware is welcomed too!*
 
-## Credits
+## Credits + Extra info
 
 *The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com/)
-*I am looking that all people joining follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org/)
+*I want to follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org) for this event
 *and the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com/)
 
 ### Moral Support
