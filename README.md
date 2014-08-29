@@ -56,21 +56,21 @@ My name is Danilo Sierra and I am organising this event, you can [Email me](mail
 
 ## Deeper questions
 
-### Why are you organising this?
+### *Why are you organising this?*
 
 We consider important to establish a strong relationship with people that work in our field: spreading human knowledge. 
 
-### Why should I attend?
+### *Why should I attend?*
 
 Because it is an opportunity to work with new technology in a completely free, cozy environment.
 
-### Why should my company/organisation should participate?
+### *Why should my company/organisation should participate?*
 
 *You want people to use your API in a new funky way 
 *You want to see what kind of cool integration potential your product has 
 *You are curious to see why and where people can put content -You are generous 
 
-### What kind of projects are you willing/expecting to see happen?
+### *What kind of projects are you willing/expecting to see happen?*
 
 *I would love to see somebody Deploying a blog on a watch 
 *I would love an app that deletes metadata from photos for privacy to exist 
@@ -78,7 +78,7 @@ Because it is an opportunity to work with new technology in a completely free, c
 *Using smartphones and becoming devices to explore fiction-based locations in real time to unlock extra content.
 *Getting your productivity suites to assist you from your wearables 
 
-### Who owns the IP of the hacks?
+### *Who owns the IP of the hacks?*
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
 
