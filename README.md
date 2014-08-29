@@ -40,11 +40,10 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 
 We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and API partner!
 
----
-Partner: EUR 1000 | Your logo goes in the first section | You get a shoutout 
-Sponsor: EUR 500 | Your logo goes in the second section
-Hardware partner: Send us things to tinker with! 
----
+|Implications   |Partner   |Sponsor   |Hardware provider   |   |
+|:-:|---|---|---|---|
+| Amount  |1000   |500   |Send us things!   |   |
+|API Rep   |Yes   |Yes   |Yes   |   |
 All supporters get to present their API and the right to be there.
 Partners get right to access to an opt-in contact sheet from attendees _given explicit consent_.
 
