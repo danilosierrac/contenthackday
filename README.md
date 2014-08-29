@@ -41,36 +41,36 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 *media consumers
 *Everyone is welcome!
 
-##Make it happen!
+## Make it happen!
 
 We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and API partner! [Download Support Kit]
 
-##Come play!
+## Come play!
 
 Do you have a cool device to hack, an odd place to put content, or want to try making and delivering content differently? 
 Then join us! [Register](https://www.eventbrite.com/e/content-hack-day-tickets-12263186521) 
 
-##Stay tuned
+## Stay tuned
 
 My name is Danilo Sierra and I am organising this event, you can [Email me](mailto:danilos@contentful.com), [Tweet me](https://twitter.com/bootsbosley) and [Yo! me](justyo.co/BOOTSBOSLEY) .
 
-##Deeper questions
+## Deeper questions
 
-###Why are you organising this?
+### Why are you organising this?
 
 We consider important to establish a strong relationship with people that work in our field: spreading human knowledge. 
 
-###Why should I attend?
+### Why should I attend?
 
 Because it is an opportunity to work with new technology in a completely free, cozy environment.
 
-###Why should my company/organisation should participate?
+### Why should my company/organisation should participate?
 
 *You want people to use your API in a new funky way 
 *You want to see what kind of cool integration potential your product has 
 *You are curious to see why and where people can put content -You are generous 
 
-###What kind of projects are you willing/expecting to see happen?
+### What kind of projects are you willing/expecting to see happen?
 
 *I would love to see somebody Deploying a blog on a watch 
 *I would love an app that deletes metadata from photos for privacy to exist 
@@ -78,21 +78,20 @@ Because it is an opportunity to work with new technology in a completely free, c
 *Using smartphones and becoming devices to explore fiction-based locations in real time to unlock extra content.
 *Getting your productivity suites to assist you from your wearables 
 
-###Who owns the IP of the hacks?
+### Who owns the IP of the hacks?
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
 
 _Bringing your own hardware is welcomed too!_
 
-##Credits
+## Credits
 
 *The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com/)
 *I am looking that all people joining follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org/)
 *and the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com/)
 
-## Supporters
-
-* [Boris](https://twitter.com/neonacho) Senior Recruiter at CocoaPods.
+### Moral Support
+* [Boris](https://twitter.com/neonacho)
 * [Herr Anti](https://twitter.com/pxlpnk)
 * [The Berlin Geekettes] (http://www.geekettes.io)
 
