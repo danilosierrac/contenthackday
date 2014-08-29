@@ -7,7 +7,7 @@ Sponsors and partners welcome!
 * [Contentful](https://www.contentful.com/)
 * [Betahaus](http://www.betahaus.com/berlin/)
 
-### Hardware Partners
+#### Hardware Partners
 
 * [Kontakt.io](http://kontakt.io/)
 * [Estimote](http://estimote.com/)
@@ -54,21 +54,21 @@ Then join us! [Register](https://www.eventbrite.com/e/content-hack-day-tickets-1
 
 ## Deeper questions
 
-### *Why are you organising this?*
+#### *Why are you organising this?*
 
 We consider important to establish a strong relationship with people that work in our field: spreading human knowledge. 
 
-### *Why should I attend?*
+#### *Why should I attend?*
 
 Because it is an opportunity to work with new technology in a completely free, cozy environment.
 
-### *Why should my company/organisation should participate?*
+#### *Why should my company/organisation should participate?*
 
 * You want people to use your API in a new funky way 
 * You want to see what kind of cool integration potential your product has 
 * You are curious to see why and where people can put content -You are generous 
 
-### *What kind of projects are would you like to see in the event?*
+#### *What kind of projects are would you like to see in the event?*
 
 Anything is welcome, yet when thinking about the event this is what I picture happening:
 
@@ -78,7 +78,7 @@ Anything is welcome, yet when thinking about the event this is what I picture ha
 * Using smartphones and iBeacon devices to explore fiction-based locations in real time to unlock extra content.
 * Getting your productivity suites to assist you from your wearables 
 
-### *Who owns the IP of the hacks?*
+#### *Who owns the IP of the hacks?*
 
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
@@ -91,7 +91,7 @@ Your code stays yours.
 * I want to follow the [Hackathon Code of Conduct](http://hackcodeofconduct.org) for this event
 * I am using the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com)
 
-### Moral Support
+#### Moral Support
 
 * [The Berlin Geekettes](http://www.geekettes.io)
 * [Boris](https://twitter.com/neonacho)
