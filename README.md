@@ -92,11 +92,9 @@ _Bringing your own hardware is welcomed too!_
 
 ## Supporters
 
-<div class="supporters" markdown="1">
 * [Boris](https://twitter.com/neonacho) Senior Recruiter at CocoaPods.
 * [Herr Anti](https://twitter.com/pxlpnk)
-* [The Berlin Geekettes] (http://www.geekettes.io/)
-</div>
+* [The Berlin Geekettes] (http://www.geekettes.io)
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
 
