@@ -72,11 +72,11 @@ Because it is an opportunity to work with new technology in a completely free, c
 
 ### *What kind of projects are you willing/expecting to see happen?*
 
-*I would love to see somebody Deploying a blog on a watch 
-*I would love an app that deletes metadata from photos for privacy to exist 
-*I would love an app that tells me where iBeacons are located and opt-in/out of them accessing my device
-*Using smartphones and becoming devices to explore fiction-based locations in real time to unlock extra content.
-*Getting your productivity suites to assist you from your wearables 
+* Deploying a blog on a watch
+* An app that deletes metadata from photos for privacy to exist
+* An app that tells me where iBeacons are located and opt-in/out of them accessing my device
+* Using smartphones and iBeacon devices to explore fiction-based locations in real time to unlock extra content.
+* Getting your productivity suites to assist you from your wearables 
 
 ### *Who owns the IP of the hacks?*
 Every person who actively works on a project owns that project themselves. 
