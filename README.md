@@ -86,10 +86,9 @@ _Bringing your own hardware is welcomed too!_
 
 ##Credits
 
-The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com/)
-I am looking that all people joining follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org/)and the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com/)
-2014
-
+*The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com/)
+*I am looking that all people joining follow the [Hackathon Code of Conduct] (http://hackcodeofconduct.org/)
+*and the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com/)
 
 ## Supporters
 
