@@ -41,7 +41,7 @@ To learn how to make it happen, read the support kit, or [write an email!](mailt
 We are still in the need to guarantee some things to make the event happen, so join  as sponsor, hardware partner, or/and hardware partner!
 
 |Implications   |Partner   |Sponsor   |Hardware provider   |
-|:-:|---|---|---|---|
+|:-:|:-:|:-:|:-:|:-:|
 | Amount  |1000   |500   |Send us things!   |   
 |API Rep   |Yes   |Yes   |Yes   |   
 All supporters get to present their API and the right to be there.
