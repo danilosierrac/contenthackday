@@ -52,10 +52,6 @@ Partners get right to access to an opt-in contact sheet from attendees _given ex
 Do you have a cool device to hack, an odd place to put content, or want to try making and delivering content differently? 
 Then join us! [Register](https://www.eventbrite.com/e/content-hack-day-tickets-12263186521) 
 
-## Stay tuned
-
-My name is Danilo Sierra and I am organising this event, you can [Email me](mailto:danilos@contentful.com), [Tweet me](https://twitter.com/bootsbosley) and [Yo! me](justyo.co/BOOTSBOSLEY) .
-
 ## Deeper questions
 
 ### *Why are you organising this?*
@@ -102,7 +98,10 @@ Your code stays yours.
 * [Herr Anti](https://twitter.com/pxlpnk)
 
 
-[Fork this project on GitHub][github], add yourself, and send us a pull request.
+## Stay tuned
 
+My name is Danilo Sierra and I am organising this event, you can [Email me](mailto:danilos@contentful.com), [Tweet me](https://twitter.com/bootsbosley) and [Yo! me](justyo.co/BOOTSBOSLEY).
+
+[Fork this project on GitHub][github], add yourself, and send us a pull request.
 [self]: http://contenthackday.com/ "Content Hack Day"
 [github]: https://github.com/danilosierrac/contenthackday/ "Fork on GitHub"
