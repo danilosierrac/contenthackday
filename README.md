@@ -45,7 +45,7 @@ We are still in the need to guarantee some things to make the event happen, so j
 | Amount  |1000   |500   |Send us things! |   
 |API Rep   |Yes   |Yes   |Yes |   
 All supporters get to present their API and the right to be there.
-Partners get right to access to an opt-in contact sheet from attendees _given explicit consent_.
+Partners get right to access to an opt-in contact sheet from attendees *given explicit consent*.
 
 ## Come play!
 
@@ -83,7 +83,7 @@ Anything is welcome, yet when thinking about the event this is what I picture ha
 Every person who actively works on a project owns that project themselves. 
 Your code stays yours.
 
-*Bringing your own hardware is welcomed too!*
+*Bringing your own hardware is welcome too!*
 
 ## Credits + Extra info
 
