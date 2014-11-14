@@ -2,16 +2,6 @@
 
 Sponsors and partners welcome!
 
-## Powered By:
-
-* [Contentful](https://www.contentful.com/)
-* [Betahaus](http://www.betahaus.com/berlin/)
-
-#### Hardware Partners
-
-* [Kontakt.io](http://kontakt.io/)
-* [Estimote](http://estimote.com/)
-
 ## What will happen?
 
 32 hours of tweaks and information deployment
@@ -109,3 +99,5 @@ My name is Danilo Sierra and I am organising this event, you can [Email me](mail
 [Fork this project on GitHub][github], add yourself, and send a pull request.
 [self]: http://contenthackday.com/ "Content Hack Day"
 [github]: https://github.com/danilosierrac/contenthackday/ "Fork on GitHub"
+
+
