@@ -1,103 +1,26 @@
-# [Content Hack Day 2014][self]
+# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 
-Sponsors and partners welcome!
+[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
-## What will happen?
+## Getting Started
 
-32 hours of tweaks and information deployment
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-Put content in odd places, fill mediums with unseen ideas.
-Content Hack Day intends to explore, break, twist, and reboot the definition of content as something more than a buzzword: the maximum currency of information.
+## Bugs and Issues
 
-The aim is that developers, designers, artists and other media-savvy people prototype, glitch and publish different kinds of content across whatever platform they can think of.
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
 
-## Where?
+## Creator
 
-Betahaus offered 50% discount for the event, we still need support to secure the deal!
-To learn how to make it happen, read the support kit, or [write an email](mailto:danilo@contentful.com)!
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-## Who Should Come
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-* You!
-* Developers
-* Bloggers
-* Publishers
-* Hardware providers
-* media consumers
-* Everyone is welcome!
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Make it happen!
+## Copyright and License
 
-We are still in the need to guarantee some things to make the event happen, so join as sponsor, hardware partner, or/and hardware partner!
-
-|Implications   |Partner   |Sponsor   |Hardware provider |
-|:-:|:-:|:-:|:-:|:-:|
-| Amount  |1000   |500   |Send us things! |   
-|API Rep   |Yes   |Yes   |Yes |   
-All supporters get to present their API and the right to be there.
-Partners get right to access to an opt-in contact sheet from attendees *given explicit consent*.
-
-## Come play!
-
-Do you have a cool device to hack, an odd place to put content, or want to try making and delivering content differently? 
-Then join us! 
-
-| [Register](https://www.eventbrite.com/e/content-hack-day-tickets-12263186521) |
-|:-:|
-
-
-## Deeper questions
-
-#### *Why are you organising this?*
-
-We consider important to establish a strong relationship with people that work in our field: spreading human knowledge. 
-
-#### *Why should I attend?*
-
-Because it is an opportunity to work with new technology in a completely free, cozy environment.
-
-#### *Why should my company/organisation should participate?*
-
-* You want people to use your API in a new funky way 
-* You want to see what kind of cool integration potential your product has 
-* You are curious to see why and where people can put content -You are generous 
-
-#### *What kind of projects are would you like to see in the event?*
-
-Anything is welcome, yet when thinking about the event this is what I picture happening:
-
-* Deploying a blog on a watch
-* An app that deletes metadata from photos for privacy to exist
-* An app that tells me where iBeacons are located and opt-in/out of them accessing my device
-* Using smartphones and iBeacon devices to explore fiction-based locations in real time to unlock extra content.
-* Getting your productivity suites to assist you from your wearables 
-
-#### *Who owns the IP of the hacks?*
-
-Every person who actively works on a project owns that project themselves. 
-Your code stays yours.
-
-*Bringing your own hardware is welcome too!*
-
-## Credits + Extra info
-
-* The layout design was inspired by [Andrew McCarthy's website](http://andrevv.com)
-* I want to follow the [Hackathon Code of Conduct](http://hackcodeofconduct.org) for this event
-* I am using the guidelines of the [Hack Day Manifesto](http://hackdaymanifesto.com)
-
-#### Moral Support
-
-* [The Berlin Geekettes](http://www.geekettes.io)
-* [Boris](https://twitter.com/neonacho)
-* [Herr Anti](https://twitter.com/pxlpnk)
-
-
-## Stay tuned
-
-My name is Danilo Sierra and I am organising this event, you can [Email me](mailto:danilos@contentful.com), [Tweet me](https://twitter.com/bootsbosley) and [Yo! me](justyo.co/BOOTSBOSLEY).
-
-[Fork this project on GitHub][github], add yourself, and send a pull request.
-[self]: http://contenthackday.com/ "Content Hack Day"
-[github]: https://github.com/danilosierrac/contenthackday/ "Fork on GitHub"
-
-
+Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
