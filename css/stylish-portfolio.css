@@ -13,13 +13,16 @@ body {
 }
 
 body {
-    font-family: "apercuregular","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-family: -apple-system, "San Francisco", BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif, “Apple Color Emoji”, “Segoe UI Emoji”, “Segoe UI Symbol”; 
+text-align: left !important;
+
 }
 
 .text-vertical-center {
     display: table-cell;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
+    padding-left: 80px;
 }
 
 .text-vertical-center h1 {
@@ -27,25 +30,25 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
-    color: #fff;
+    
 }
 
 .text-vertical-center h3 {
-    color: #fff;
+    
 }
 
 /* Custom Button Styles */
 
 .btn-dark {
     border-radius: 0;
-    color: #fff;
+    
     background-color: rgba(0,0,0,0.4);
 }
 
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-    color: #fff;
+    
     background-color: rgba(0,0,0,0.7);
 }
 
@@ -108,7 +111,7 @@ hr.small {
 
 .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #fff;
+    
     background: rgba(255,255,255,0.2);
 }
 
@@ -128,7 +131,7 @@ hr.small {
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-    color: #fff;
+    
     background: none;
 }
 
@@ -161,14 +164,7 @@ hr.small {
     width: 100%;
     height: 100%;
 
-     background: #ff32f8; /* Old browsers */
-        background: -moz-linear-gradient(top,  #ff32f8 15%, #7db9e8 100%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, left bottom, color-stop(15%,#ff32f8), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(top,  #ff32f8 15%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(top,  #ff32f8 15%,#7db9e8 100%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(top,  #ff32f8 15%,#7db9e8 100%); /* IE10+ */
-        background: linear-gradient(to bottom,  #ff32f8 15%,#7db9e8 100%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff32f8', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+     
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -179,8 +175,9 @@ hr.small {
 
 /* About */
 
-.about {
+.about, #text-vertical-center {
     padding: 50px 0;
+    text-align: left !important;
 }
 
 /* Services */
@@ -199,7 +196,7 @@ hr.small {
     display: table;
     width: 100%;
     height: 400px;
-    color: #fff;
+    
     background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -251,4 +248,100 @@ hr.small {
 
 footer {
     padding: 100px 0;
+}
+
+
+/*Forms*/
+
+input[type="text"] 
+{
+  margin-top: 20px;
+  border: none;
+  text-align: left;
+  border-bottom: solid 2px #FFffff;
+  background-color: transparent;
+  transition: border 0.3s;
+  color: #FFffff;
+  padding: 10px 10px 10px 10px;
+}
+
+input[type="text"]:enabled,
+  input[type="text"].enabled {
+  margin-top: 20px;
+  border-bottom: solid 2px #FF2D55;
+  background-color: transparent;
+  font-size: 1em;
+  color: #FFffff;
+  padding: 10px 10px 10px 10px;
+}
+
+  input[type="text"]:focus,
+  input[type="text"].focus {
+
+  margin-top: 20px;
+  border-bottom: solid 2px #FF2D55;
+  background-color: transparent;
+  font-size: 1em;
+  color: #FF2D55;
+  padding: 10px 10px 10px 10px;
+}
+
+input[type="text"]:blur,
+  input[type="text"].blur {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 2px #FF2D55;
+  background-color: transparent;
+  font-size: 1em;
+  color: #FF2D55;
+  padding: 10px 10px 10px 10px;
+}
+
+input[type="text"]:placeholder,
+  input[type="text"].placeholder {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 2px #FF2D55;
+  background-color: transparent;
+  font-size: 1em;
+  color: #FF2D55;
+  padding: 10px 10px 10px 10px;
+}
+
+button   {
+    background-color: #777;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 0px;
+  }
+
+hr 
+{
+   border: 0;
+    height: 2px;
+    background: #333;
+    background-color: #333;
+}
+
+h1{
+  font-size: 2em;
+  color: #FF2D55;
+  text-decoration: underline;
+}
+
+pre{
+  font-size: 2em;
+  margin-top: 30px;
+  padding: 10px 10px 10px 10px;
+  color: #FF2D55;
+/*  max-width: 50%;*/
+  background-color: transparent;
+  background-color: #dbdbdb;
+  outline: 0;
+  border-radius: 0;
 }
